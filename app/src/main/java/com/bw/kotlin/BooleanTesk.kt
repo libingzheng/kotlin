@@ -12,6 +12,14 @@ fun main(args:Array<String>){
     var num3=Math.sqrt(5.0)-Math.sqrt(4.0)
     var num4=Math.sqrt(4.0)-Math.sqrt(3.0)
     println(num3<num4)
+    //打印具体值
+    println(num3)
+    println(num4)
 
     //2的100次方和3的75次方
+    var num5=Math.pow(2.0,100.0)//2的100次方
+    var num6=Math.pow(3.0,75.0)//3的75次方
+    println(num5>num6)
+    println(num5)
+    println(num6)
 }
