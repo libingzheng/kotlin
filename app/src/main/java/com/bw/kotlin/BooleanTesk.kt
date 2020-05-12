@@ -14,5 +14,4 @@ fun main(args:Array<String>){
     println(num3<num4)
 
     //2的100次方和3的75次方
-    var num5=Math
 }
